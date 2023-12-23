@@ -56,6 +56,8 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 
 ### :fire: My Stats :
 <div align="center">
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=elmahdigaga&theme=dark&date_format=j%20M%5B%20Y%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 </div>
 
